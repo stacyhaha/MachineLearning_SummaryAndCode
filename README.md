@@ -12,7 +12,7 @@
 2. KNN
 * 实现线性搜索的KNN算法
 * 实现基于KDtree的KNN算法
-* 总结sklearn中GridCV的使用
+* 总结sklearn中GridSearchCV的使用
 
 
 3. 线性回归
