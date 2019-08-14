@@ -10,6 +10,6 @@
 |容易欠拟合|需要调整gamma值,<br>gamma值过小容易过拟合<br>gamma值过大容易欠拟合|
 
 
-关于线性回归和局部加权线性回归的原理推导见自己的博客～
-[线性回归笔记](https://blog.csdn.net/weixin_44264662/article/details/99549474)
+关于线性回归和局部加权线性回归的原理推导见自己的博客～  
+[线性回归笔记](https://blog.csdn.net/weixin_44264662/article/details/99549474)  
 其中关于对向量求导的两个常用公式熟练记忆～
