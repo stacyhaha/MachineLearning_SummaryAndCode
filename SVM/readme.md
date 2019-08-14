@@ -13,3 +13,10 @@
 * 核函数矩阵是对称的，故只需要存储一半
 
 之后有机会再继续优化～
+
+个人总结的SVM的推导原理博客链接,忘了可以再看看……
+![这次一定要弄懂-SVM-1- Hard Margin SVM的原问题推导](https://blog.csdn.net/weixin_44264662/article/details/97151205)
+![这次一定要弄懂-SVM-2-Hard Margin SVM的原问题转换为拉格朗日对偶问题](https://blog.csdn.net/weixin_44264662/article/details/97614757)
+![这次一定要弄懂-SVM-3-Hard Margin SVM的对偶问题的求解（SMO算法）](https://blog.csdn.net/weixin_44264662/article/details/97673000)
+![这次一定要弄懂-SVM-4-总结Hard Margin SVM的求解过程，并用python实现](https://blog.csdn.net/weixin_44264662/article/details/97900309)
+![这次一定要弄懂-SVM-5-推广到soft margin svm和非线性的svm](https://blog.csdn.net/weixin_44264662/article/details/97952385)
