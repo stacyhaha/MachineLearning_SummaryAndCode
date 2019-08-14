@@ -42,5 +42,4 @@ distance（一般权重选距离的倒数）
 # 参考内容：
 《统计学习方法》——李航  
 《机器学习实战》——Peter  
-https://www.joinquant.com/community/post/detailMobile?postId=2843&page=&limit=20&replyId=&tag=&utm_source=wechat_session&utm_medium=social&utm_oi=662949217920880640
-知乎上关于kdtree的原理的解释
+[知乎上关于kdtree的原理的解释](https://www.joinquant.com/community/post/detailMobile?postId=2843&page=&limit=20&replyId=&tag=&utm_source=wechat_session&utm_medium=social&utm_oi=662949217920880640)
