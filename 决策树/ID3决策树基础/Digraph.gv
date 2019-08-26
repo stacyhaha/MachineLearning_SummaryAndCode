@@ -1,7 +1,0 @@
-// the root node is if can raise other
-digraph {
-	position -> Cat [label=MASTER]
-	position -> "how long forget" [label=PLAYER]
-	"how long forget" -> Dog [label=NEVER]
-	"how long forget" -> Stone [label="A WEEK"]
-}
