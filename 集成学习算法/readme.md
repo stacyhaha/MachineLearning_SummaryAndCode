@@ -8,7 +8,7 @@
 
 ## 理论部分概述
 ### 常见的集成算法之间的关系
-随机森林：Bagging + 决策树
-提升树：AdaBoost + 决策树
-GBDT：Gradient Boosting + 决策树
-XGBboost：是在GBDT上的改进
+随机森林：Bagging + 决策树  
+提升树：AdaBoost + 决策树  
+GBDT：Gradient Boosting + 决策树   
+XGBboost：是在GBDT上的改进  
