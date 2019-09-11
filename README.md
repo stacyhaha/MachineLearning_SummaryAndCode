@@ -33,13 +33,13 @@
 * 实现CART回归树
 * 使用sklearn中的决策树解决分类和回归问题
 
-7. 集成算法
-＊ 实现基于决策树桩的Adaboost算法
-＊ 实现损失函数为ls的GBDT算法
-＊ 
-＊ 使用sklearn中的RandomForest
-＊ 使用sklearn中的GBDT
-＊ 使用sklearn中的XGBoost和xgboost开源包
+7. 集成算法  
+＊ 实现基于决策树桩的Adaboost算法  
+＊ 实现损失函数为ls的GBDT算法  
+＊   
+＊ 使用sklearn中的RandomForest  
+＊ 使用sklearn中的GBDT  
+＊ 使用sklearn中的XGBoost和xgboost开源包  
 
 8. 逻辑回归
 9. 贝叶斯
