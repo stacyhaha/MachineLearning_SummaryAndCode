@@ -36,7 +36,7 @@
 7. 集成算法  
 * 实现基于决策树桩的Adaboost算法  
 * 实现损失函数为ls的GBDT算法  
-* 
+* 使用sklearn中的VotingClassifier和BaggingClassifier
 * 使用sklearn中的RandomForest  
 * 使用sklearn中的GBDT  
 * 使用sklearn中的XGBoost和xgboost开源包  
