@@ -42,7 +42,10 @@
 * 使用sklearn中的GBDT  
 * 使用sklearn中的XGBoost和xgboost开源包  
 
-8. 逻辑回归
-9. 贝叶斯
-10. PCA
+8.PCA
+* 实现基于梯度上升的PCA
+* 实现基于协方差矩阵的PCA
+
+9. 逻辑回归
+10. 贝叶斯
 11. 感知机模型
